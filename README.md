@@ -62,6 +62,12 @@ Sistema de gerenciamento de empréstimos
         cp .env.example .env
         ```
 
+    * Criar local_settings
+
+        ```
+        cp local_settings.example.py local_settings.py
+        ```
+
     * Iniciar docker com banco de dados postgres
 
         ```
